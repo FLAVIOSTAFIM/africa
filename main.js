@@ -8,10 +8,10 @@ function tocaSomTiger() {
 }
 document.querySelector ('.tecla_tiger').onclick= tocaSomTiger;
 
-function tocaSomTim() {
-    document.querySelector('#som_tecla_tim').play();
+function tocaSomGorilla() {
+    document.querySelector('#som_tecla_gorilla').play();
 }
-document.querySelector ('.tecla_tim').onclick= tocaSomTim;
+document.querySelector ('.tecla_gorrilla').onclick= tocaSomGorilla;
 
 function tocaSomPuff() {
     document.querySelector('#som_tecla_puff').play();
