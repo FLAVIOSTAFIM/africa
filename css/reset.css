@@ -82,7 +82,7 @@ textarea {
 }
 
 select {
-    border: none;
+    border: none; 
     color: inherit;
     font-size: inherit;
     font-weight: inherit;
