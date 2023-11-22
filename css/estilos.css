@@ -2,8 +2,8 @@
   --cinza: #aaa;
   --vermelha: #a71929;
   --vermelha-escura: #5a2229;
-  --branca: #fff;
-  --luz: rgb(229, 255, 0);
+  --branca:#fffffffff;
+  --luz: rgb(255, 115, 0);
 }
 
 body {
