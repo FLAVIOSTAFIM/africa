@@ -2,7 +2,7 @@
   --cinza: #aaa;
   --vermelha: #a71929;
   --vermelha-escura: #5a2229;
-  --branca:#fffffffff;
+  --branca:rgba(255, 255, 255, 0.527);
   --luz: rgb(255, 115, 0);
 }
 
